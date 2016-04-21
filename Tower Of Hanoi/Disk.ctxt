@@ -1,8 +1,4 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Disk()
-comment1.params=botDisk\ size
-comment1.target=Disk(Disk,\ int)
-comment2.params=topDisk\ bottomDisk\ size
-comment2.target=Disk(Disk,\ Disk,\ int)
-numComments=3
+comment0.params=size
+comment0.target=Disk(int)
+numComments=1

@@ -1,8 +1,8 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ main()
-comment1.params=fromTower\ toTower
-comment1.target=void\ moveDisk(Tower,\ Tower)
-comment2.params=x
-comment2.target=int\ numOfDisks(Tower)
+comment0.params=numOfDisks
+comment0.target=void\ main(int)
+comment1.params=numOfDisks\ fromTower\ toTower\ auxillery
+comment1.target=void\ moveAllDisks(int,\ Tower,\ Tower,\ Tower)
+comment2.params=fromTower\ toTower
+comment2.target=void\ moveDisk(Tower,\ Tower)
 numComments=3
